@@ -3,11 +3,17 @@ body {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
     background: black;
-    color: lightblue;
-    font-size: 50px;
+    color: blueviolet;
+    font-size: 20px;
 }
 
-#directions-text {
-    background-image: url('../images/The-Psychic-ghostbusters.gif');
-    height: 100%;
+img {
+    width: 30%;
+    height: 30%;
 }
+
+#container {
+    padding: 20px;
+}
+
+#directions-text {}
