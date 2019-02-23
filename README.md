@@ -25,3 +25,5 @@ I had planed out the script following the given prompt. I had planed out what va
         letterReset.push(random);}`
 
 4. Next I wanted the code that when the player guessed the letter the program choose they would gain a win but if they did not they would lose a guess opportunity.
+
+In the end I still had some trouble with getting the chosen letter to reset. I still plan on working on this project to further improve upon the code 
